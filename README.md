@@ -7,8 +7,8 @@ I always knew I had an interest in technology but never pursued it. That was unt
 * ⚛ React
 * 💻 HTML, CSS, JS
 
-- 📫 How to reach me: danielaescutia@yahoo.com 
-- 😄 Pronouns: She/Her 
+### Reach me at:
+- 📫 danielaescutia@yahoo.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/danielaescutia07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniela-escutia/)  
