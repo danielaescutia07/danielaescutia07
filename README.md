@@ -1,7 +1,8 @@
 ![](https://www.colourbox.com/preview/31609797-web-development-banner-concept.jpg)
 
 # Hi there 👋, I'm Daniela Escutia
-I always knew I had an interest in technology but never pursued it. That was until I took a chance and stepped into the unknown. I decided to embark on a new journey and learn a programming language. 
+I always knew I had an interest in technology but never pursued it. That was until I took a chance and stepped into the unknown. I decided to embark on a new journey and learn a programming language.
+⚡Always up for a challenge!
 
 ## Skills and Experience
 * ⚛ React
