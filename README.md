@@ -1,4 +1,4 @@
-<img src="https://wallpaperaccess.com/full/1555167.jpg" alt="Banner" width="100%" height="300">
+<img src="https://bugfender.com/wp-content/uploads/2019/11/Feature-image.jpg" alt="Banner" width="100%" height="350">
 <h1 align="center">Hi 👋, I'm Daniela Escutia</h1>
 <h3 align="center">A passionate frontend developer!</h3>
 
