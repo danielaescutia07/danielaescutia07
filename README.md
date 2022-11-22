@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Daniela Escutia</h1>
 <h3 align="center">A passionate frontend developer!</h3>
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Girl Coding" width="600" height="500" align="right">
+<img src="https://cdn.dribbble.com/users/846207/screenshots/9192312/media/c821e24ed3cc26b9e43e2decfdee20ce.gif" alt="Girl Coding" width="500" height="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielaescutia07&label=Profile%20views&color=0e75b6&style=flat" alt="danielaescutia07" /> </p>
 
